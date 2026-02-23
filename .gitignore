@@ -1,0 +1,4 @@
+# Ignore any local settings & cache
+TildeChat.json
+__pycache__/
+*.pyc
